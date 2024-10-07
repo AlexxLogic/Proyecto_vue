@@ -1,4 +1,4 @@
-# prueva5
+# Proyecto vue
 
 ## Project setup
 ```
